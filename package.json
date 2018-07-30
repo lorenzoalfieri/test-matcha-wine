@@ -1,0 +1,25 @@
+{
+  "name": "test-matcha-wine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorenzoalfieri/test-matcha-wine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lorenzoalfieri/test-matcha-wine/issues"
+  },
+  "homepage": "https://github.com/lorenzoalfieri/test-matcha-wine#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "node-sentiment": "0.0.6",
+    "sentiment": "^5.0.1"
+  }
+}
